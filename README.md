@@ -1,4 +1,4 @@
-# Big Data Learning Zone
+# Python Project Template
 
 A modern Python project template featuring best practices and essential development tools for building robust applications.
 
