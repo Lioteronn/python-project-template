@@ -10,5 +10,7 @@
         }
     },
     // Enable BasedPyright type checking
-    "basedpyright.analysis.typeCheckingMode": "basic"
+    "basedpyright.analysis.typeCheckingMode": "basic",
+    "typescript.tsc.autoDetect": "off",
+    "npm.autoDetect": "off"
 }
