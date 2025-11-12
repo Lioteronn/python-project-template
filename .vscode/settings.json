@@ -1,6 +1,6 @@
 {
     "python.analysis.typeCheckingMode": "off",
-    "python.defaultInterpreterPath": "./venv/Scripts/python.exe",
+    "python.defaultInterpreterPath": "./.venv/Scripts/python.exe",
     "[python]": {
         "editor.defaultFormatter": "charliermarsh.ruff",
         "editor.formatOnSave": true,
